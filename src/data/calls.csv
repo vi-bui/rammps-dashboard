@@ -1,0 +1,119 @@
+Outcome2,nperoutcome,totaln,percperoutcome,group,Eligibility
+COMP,11952,135968,8.8,DRC,Eligible
+DEFER,2910,135968,2.1,DRC,Ineligible
+INCO,80,135968,0.1,DRC,Eligible
+Other Ineligible,6977,135968,5.1,DRC,Ineligible
+Other Eligibility Unknown,15,135968,0,DRC,Eligibility unknown
+NNA/NR,102176,135968,75.1,DRC,Eligibility unknown
+NNU,8024,135968,5.9,DRC,Ineligible
+Other Eligibility Unknown,18,135968,0,DRC,Eligibility unknown
+Other Eligibility Unknown,273,135968,0.2,DRC,Eligibility unknown
+Other Ineligible,549,135968,0.4,DRC,Ineligible
+REFU,2994,135968,2.2,DRC,Eligibility unknown
+COMP,11265,125411,9,Feroxus,Eligible
+DEFER,2846,125411,2.3,Feroxus,Ineligible
+INCO,79,125411,0.1,Feroxus,Eligible
+Other Ineligible,5797,125411,4.6,Feroxus,Ineligible
+Other Eligibility Unknown,12,125411,0,Feroxus,Eligibility unknown
+NNA/NR,97948,125411,78.1,Feroxus,Eligibility unknown
+NNU,3838,125411,3.1,Feroxus,Ineligible
+Other Eligibility Unknown,18,125411,0,Feroxus,Eligibility unknown
+Other Eligibility Unknown,267,125411,0.2,Feroxus,Eligibility unknown
+Other Ineligible,531,125411,0.4,Feroxus,Ineligible
+REFU,2810,125411,2.2,Feroxus,Eligibility unknown
+COMP,687,10557,6.5,IVR,Eligible
+DEFER,64,10557,0.6,IVR,Ineligible
+INCO,1,10557,0,IVR,Eligible
+Other Ineligible,1180,10557,11.2,IVR,Ineligible
+Other Eligibility Unknown,3,10557,0,IVR,Eligibility unknown
+NNA/NR,4228,10557,40,IVR,Eligibility unknown
+NNU,4186,10557,39.7,IVR,Ineligible
+Other Eligibility Unknown,6,10557,0.1,IVR,Eligibility unknown
+Other Ineligible,18,10557,0.2,IVR,Ineligible
+REFU,184,10557,1.7,IVR,Eligibility unknown
+COMP,5692,57742,9.9,Feroxus-Kin,Eligible
+DEFER,1391,57742,2.4,Feroxus-Kin,Ineligible
+INCO,26,57742,0,Feroxus-Kin,Eligible
+Other Ineligible,3228,57742,5.6,Feroxus-Kin,Ineligible
+Other Eligibility Unknown,6,57742,0,Feroxus-Kin,Eligibility unknown
+NNA/NR,43631,57742,75.6,Feroxus-Kin,Eligibility unknown
+NNU,2017,57742,3.5,Feroxus-Kin,Ineligible
+Other Eligibility Unknown,10,57742,0,Feroxus-Kin,Eligibility unknown
+Other Eligibility Unknown,52,57742,0.1,Feroxus-Kin,Eligibility unknown
+Other Ineligible,331,57742,0.6,Feroxus-Kin,Ineligible
+REFU,1358,57742,2.4,Feroxus-Kin,Eligibility unknown
+COMP,5573,67669,8.2,Feroxus-NK,Eligible
+DEFER,1455,67669,2.2,Feroxus-NK,Ineligible
+INCO,53,67669,0.1,Feroxus-NK,Eligible
+Other Ineligible,2569,67669,3.8,Feroxus-NK,Ineligible
+Other Eligibility Unknown,6,67669,0,Feroxus-NK,Eligibility unknown
+NNA/NR,54317,67669,80.3,Feroxus-NK,Eligibility unknown
+NNU,1821,67669,2.7,Feroxus-NK,Ineligible
+Other Eligibility Unknown,8,67669,0,Feroxus-NK,Eligibility unknown
+Other Eligibility Unknown,215,67669,0.3,Feroxus-NK,Eligibility unknown
+Other Ineligible,200,67669,0.3,Feroxus-NK,Ineligible
+REFU,1452,67669,2.1,Feroxus-NK,Eligibility unknown
+COMP,87,666,13.1,IVR group 1-Kin,Eligible
+DEFER,7,666,1.1,IVR group 1-Kin,Ineligible
+Other Ineligible,51,666,7.7,IVR group 1-Kin,Ineligible
+NNA/NR,383,666,57.5,IVR group 1-Kin,Eligibility unknown
+NNU,129,666,19.4,IVR group 1-Kin,Ineligible
+Other Ineligible,2,666,0.3,IVR group 1-Kin,Ineligible
+REFU,7,666,1.1,IVR group 1-Kin,Eligibility unknown
+COMP,20,123,16.3,IVR group 1-NK,Eligible
+Other Ineligible,22,123,17.9,IVR group 1-NK,Ineligible
+NNA/NR,56,123,45.5,IVR group 1-NK,Eligibility unknown
+NNU,21,123,17.1,IVR group 1-NK,Ineligible
+REFU,4,123,3.3,IVR group 1-NK,Eligibility unknown
+COMP,580,9768,5.9,IVR group 2,Eligible
+DEFER,57,9768,0.6,IVR group 2,Ineligible
+INCO,1,9768,0,IVR group 2,Eligible
+Other Ineligible,1107,9768,11.3,IVR group 2,Ineligible
+Other Eligibility Unknown,3,9768,0,IVR group 2,Eligibility unknown
+NNA/NR,3789,9768,38.8,IVR group 2,Eligibility unknown
+NNU,4036,9768,41.3,IVR group 2,Ineligible
+Other Eligibility Unknown,6,9768,0.1,IVR group 2,Eligibility unknown
+Other Ineligible,16,9768,0.2,IVR group 2,Ineligible
+REFU,173,9768,1.8,IVR group 2,Eligibility unknown
+COMP,9678,98231,9.9,MW,Eligible
+DEFER,5211,98231,5.3,MW,Ineligible
+INCO,4428,98231,4.5,MW,Eligible
+Other Eligibility Unknown,62,98231,0.1,MW,Eligibility unknown
+Other Ineligible,591,98231,0.6,MW,Ineligible
+Other Eligibility Unknown,385,98231,0.4,MW,Eligibility unknown
+NNA/NR,69244,98231,70.5,MW,Eligibility unknown
+NNU,4339,98231,4.4,MW,Ineligible
+Other Eligibility Unknown,141,98231,0.1,MW,Eligibility unknown
+Other Eligibility Unknown,158,98231,0.2,MW,Eligibility unknown
+Other Ineligible,191,98231,0.2,MW,Ineligible
+REFU,3803,98231,3.9,MW,Eligibility unknown
+COMP,8919,52916,16.9,BF-RDD,Eligible
+DEFER,10170,52916,19.2,BF-RDD,Ineligible
+INCO,1304,52916,2.5,BF-RDD,Eligible
+Other Eligibility Unknown,4,52916,0,BF-RDD,Eligibility unknown
+Other Eligibility Unknown,204,52916,0.4,BF-RDD,Eligibility unknown
+NNA/NR,10869,52916,20.5,BF-RDD,Eligibility unknown
+NNU,17690,52916,33.4,BF-RDD,Ineligible
+Other Eligibility Unknown,1627,52916,3.1,BF-RDD,Eligibility unknown
+Other Eligibility Unknown,219,52916,0.4,BF-RDD,Eligibility unknown
+Other Ineligible,6,52916,0,BF-RDD,Ineligible
+REFU,1904,52916,3.6,BF-RDD,Eligibility unknown
+COMP,4265,21607,19.7,BF-EHCVM,Eligible
+INCO,469,21607,2.2,BF-EHCVM,Eligible
+Other Eligibility Unknown,6,21607,0,BF-EHCVM,Eligibility unknown
+Other Eligibility Unknown,62,21607,0.3,BF-EHCVM,Eligibility unknown
+Other Eligibility Unknown,2727,21607,12.6,BF-EHCVM,Eligibility unknown
+NNU,13613,21607,63,BF-EHCVM,Ineligible
+Other Eligibility Unknown,92,21607,0.4,BF-EHCVM,Eligibility unknown
+REFU,373,21607,1.7,BF-EHCVM,Eligibility unknown
+COMP,13184,74523,17.7,BF,Eligible
+DEFER,10170,74523,13.6,BF,Ineligible
+INCO,1773,74523,2.4,BF,Eligible
+Other Eligibility Unknown,10,74523,0,BF,Eligibility unknown
+Other Eligibility Unknown,266,74523,0.4,BF,Eligibility unknown
+Other Eligibility Unknown,13596,74523,18.2,BF,Eligibility unknown
+NNU,31303,74523,42,BF,Ineligible
+Other Eligibility Unknown,1719,74523,2.3,BF,Eligibility unknown
+Other Eligibility Unknown,219,74523,0.3,BF,Eligibility unknown
+Other Ineligible,6,74523,0,BF,Ineligible
+REFU,2277,74523,3.1,BF,Eligibility unknown
