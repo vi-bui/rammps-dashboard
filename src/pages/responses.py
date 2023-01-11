@@ -3,6 +3,7 @@ from dash import dcc, html, callback, Output, Input
 import plotly.express as px
 import dash_bootstrap_components as dbc
 import pandas as pd
+import numpy as np
 
 dash.register_page(__name__,
                    path='/responserates',  # represents the url text
@@ -11,7 +12,10 @@ dash.register_page(__name__,
 )
 
 # page 2 data
+
+# read in data
 df = pd.read_csv("src/data/calls.csv")
+df = df[df['group'].isin(['DRC', 'MW', 'BF-RDD'])] # select specific countries
 
 layout = html.Div(
     [
@@ -23,7 +27,7 @@ layout = html.Div(
             ),
             dbc.Col(
                 [
-                    dcc.RadioItems(df.group.unique(), id='country', value='DRC')
+                    dcc.Dropdown(df.group.unique(), id='country', value='DRC')
                 ], width=6
             )
         ]),
@@ -45,5 +49,8 @@ layout = html.Div(
 )
 def update_graph(value):
     dff = df[df.group==value]
-    fig = px.bar(dff, x='Outcome2', y='percperoutcome')
+    fig = px.bar(dff, x='Outcome2', y='percperoutcome', color = 'Eligibility',
+    labels={'Outcome2' : '', 'percperoutcome' : 'Phonec calls'})
+    fig.update_yaxes(range = [0,80]) # set range for yaxis
+    fig.update_layout( yaxis={'categoryorder':'trace', 'categoryarray':df.index})
     return fig
